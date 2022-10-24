@@ -1,0 +1,5 @@
+.ParentBox {
+    display: 'flex';
+    gap: '5px';
+    background: 'purple'
+}
